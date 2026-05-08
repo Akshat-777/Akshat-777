@@ -15,7 +15,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 B.Tech in **Computer Science & Engineering (Data Science)** · CGPA **9.62/10** · SKIT, Jaipur
+- 🎓 B.Tech in **Computer Science & Engineering (Data Science)** · SKIT, Jaipur
 - 🌐 Full-stack developer building with **React, Next.js, Node.js, Express** and real-time systems
 - 🤖 AI/ML engineer working with **RAG pipelines, LLMs, NLP**, and multimodal models
 - 🏆 Selected for **Smart India Hackathon 2025** · Competed in **Amazon ML Challenge 2025**
