@@ -19,7 +19,6 @@
 - 🌐 Full-stack developer building with **React, Next.js, Node.js, Express** and real-time systems
 - 🤖 AI/ML engineer working with **RAG pipelines, LLMs, NLP**, and multimodal models
 - 🏆 Selected for **Smart India Hackathon 2025** · Competed in **Amazon ML Challenge 2025**
-- 🔍 Currently exploring: agentic AI pipelines, LLM fine-tuning, and microservices architecture
 - 📬 Reach me at: **akshat77sk@gmail.com**
 
 ---
@@ -86,7 +85,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akshat-777&theme=tokyonight&hide_border=true/>
+  <img src="https://streak-stats.demolab.com?user=Akshat-777&theme=tokyonight&hide_border=true/">
 </p>
 ---
 
