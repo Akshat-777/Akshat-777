@@ -86,16 +86,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshat-777&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akshat-777&theme=tokyonight&hide_border=true&mode=weekly"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat-777&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://streak-stats.demolab.com?user=Akshat-777&theme=tokyonight&hide_border=true/>
 </p>
 ---
 
